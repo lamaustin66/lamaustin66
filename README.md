@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Lam</h1>
-<h3 align="center">A passionate iOS Developer from California</h3>
+<h3 align="center">A passionate iOS Developer from University of California, Irvine</h3>
 
 <p align="center">
   <img src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsun.gif?raw=true" />
