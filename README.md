@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lamaustin66)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/lamaustin66)
 
-Native mobile app developer for iOS using Swift since 2022. I am located in Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the iOS industry.
+Native mobile app developer for iOS using Swift since 2022 from Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the iOS industry.
 
 <img align="right" alt="GIF" src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsun.gif?raw=true"/>
   
