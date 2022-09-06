@@ -12,7 +12,7 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
   
 ## 🧐 More About Me
 
-- 📝 I graduated with a B.S. Computer Science from UC Irvine
+- 🎓 Newgrad B.S. in Computer Science from University of California, Irvine
 - 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
 - 🤝 I’m looking to collaborate on **peer-to-peer facetime**
 - 🌱 I’m currently learning Swift, UIKit, and Design Patterns
