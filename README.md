@@ -35,11 +35,12 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamaustin66&show_icons=true&locale=en&layout=compact" alt="lamaustin66" /></p>
 
+<!--
 ## 🚧 Major Projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamaustin66&repo=gifSplitterX)](https://github.com/lamaustin66/gifSplitterX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamaustin66&repo=chatAppX)](https://github.com/lamaustin66/chatAppX)
 
-<!--
+
 <img src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsunbanner.jpg?raw=true"/>
 -->
