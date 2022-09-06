@@ -13,12 +13,12 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
   
 ## 🧐 More About Me
 
-- 🎓 Newgrad B.S. in Computer Science from University of California, Irvine
+- 🎓 New grad B.S. Computer Science from UC Irvine. GPA: 3.79
 - 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
 - 🤝 I’m looking for help with **peer-to-peer facetime**
 - 🌱 I’m currently learning **Swift**, **Fastlane**, and **Design Patterns**
 - 👨🏻‍💻 All of my projects are available on [Github](https://github.com/lamaustin66)
-- 🫧 When I am free I like to garden, fix cars, fly kites, and blow bubbles
+- 🧰 When I am free I like to garden, fix cars, fly kites, and blow bubbles
 
 
 ## 🔨 Languages and tools
