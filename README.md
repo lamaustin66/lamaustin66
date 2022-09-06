@@ -11,6 +11,6 @@
 - 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
 - 🌱 I’m currently learning Swift, UIKit, and Design Patterns
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/lamaustin66)
-- 📚 When I am free, I like to garden, fix cars, fly kites, and blow bubbles
+- 📚 When I am free I like to garden, fix cars, fly kites, and blow bubbles
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamaustin66&show_icons=true&locale=en&layout=compact" alt="lamaustin66" /></p>
