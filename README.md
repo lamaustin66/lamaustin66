@@ -3,6 +3,7 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gif-splitter-x/id1640601781)
 [![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/lamaustin66)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lamaustin66/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)]()
 
 
