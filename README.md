@@ -21,7 +21,7 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 - 📚 When I am free I like to garden, fix cars, fly kites, and blow bubbles
 
 
-## Languages and tools
+## 🔨 Languages and tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
