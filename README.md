@@ -1,7 +1,9 @@
 ## Hey 👋, I'm Austin Lam!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lamaustin66)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/lamaustin66)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gif-splitter-x/id1640601781)
+[![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/lamaustin66)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lamaustin66/)
+
 
 Native mobile app developer for iOS using Swift since 2022 from Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the iOS industry.
 
