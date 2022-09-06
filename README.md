@@ -9,7 +9,7 @@
 
 Native mobile app developer for iOS using Swift since 2022 from Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the iOS industry.
 
-<img align="right" alt="Hot air balloon" src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsun.gif?raw=true"/>
+<!--<img align="right" alt="Hot air balloon" src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsun.gif?raw=true"/>-->
   
 ## 🧐 More About Me
 
