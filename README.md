@@ -7,7 +7,7 @@
   
 ### 🧐 More About Me:
 
-- 📝 I graduated with a B.S. Computer Science from University of California, Irvine
+- 📝 I graduated with a B.S. Computer Science from UC Irvine
 - 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
 - 🌱 I’m currently learning Swift, UIKit, and Design Patterns
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/lamaustin66)
