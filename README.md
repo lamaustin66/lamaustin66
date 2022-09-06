@@ -3,8 +3,8 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gif-splitter-x/id1640601781)
 [![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/lamaustin66)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lamaustin66/)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)]()
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://steamcommunity.com/id/thighslapper)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/austinlamdev)
 
 
 Native mobile app developer for iOS using Swift since 2022 from Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the iOS industry.
@@ -18,7 +18,7 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 - 🤝 I’m looking for help with **peer-to-peer facetime**
 - 🌱 I’m currently learning **Swift**, **Fastlane**, and **Design Patterns**
 - 👨🏻‍💻 All of my projects are available on [Github](https://github.com/lamaustin66)
-- 🧰 When I am free I like to garden, fix cars, fly kites, and blow bubbles
+- 🧰 When I am free I like to garden, play boardgames, fix cars, fly kites, blow bubbles
 
 
 ## 🔨 Languages and tools
