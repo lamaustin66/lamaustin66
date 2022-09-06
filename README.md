@@ -18,7 +18,7 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 - 🤝 I’m looking for help with **peer-to-peer facetime**
 - 🌱 I’m currently learning **Swift**, **Fastlane**, and **Design Patterns**
 - 👨🏻‍💻 All of my projects are available on [Github](https://github.com/lamaustin66)
-- 📚 When I am free I like to garden, fix cars, fly kites, and blow bubbles
+- 🫧 When I am free I like to garden, fix cars, fly kites, and blow bubbles
 
 
 ## 🔨 Languages and tools
