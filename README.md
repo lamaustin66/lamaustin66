@@ -36,4 +36,6 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamaustin66&show_icons=true&locale=en&layout=compact" alt="lamaustin66" /></p>
 
+<!--
 <img src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsunbanner.jpg?raw=true"/>
+-->
