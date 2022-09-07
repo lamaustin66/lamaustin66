@@ -15,10 +15,10 @@ Native mobile app developer for iOS using Swift since 2022 from Palo Alto, Calif
 
 - 🎓 New grad B.S. Computer Science from University of California, Irvine
 - 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
-- 🤝 I’m looking for help with **peer-to-peer facetime**
-- 🌱 I’m currently learning **Swift**, **Fastlane**, and **Design Patterns**
+- 🌱 I’m currently learning **Swift** and **Design Patterns**
 - 👨🏻‍💻 All of my projects are available on [Github](https://github.com/lamaustin66)
 - 🧰 When I am free I like to garden, play boardgames, fix cars, fly kites, blow bubbles
+<!-- - 🤝 I’m looking for help with **peer-to-peer facetime** -->
 
 
 ## 🔨 Languages and tools
