@@ -1,23 +1,23 @@
-# Hey 👋, I'm Austin Lam!
-
+# Hey, I'm Austin Lam
+<!--
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gif-splitter-x/id1640601781)
 [![Github](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/lamaustin66)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lamaustin66/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)](https://steamcommunity.com/id/thighslapper)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/austinlamdev)
-
+-->
 
 Software engineer, developing mobile apps for iOS using Swift since 2022 from Palo Alto, California. My goals are to gain experience working with different software design patterns, software engineering process models, and enterprise collaboration/development tools of the software engineering industry. Open to trying new things
 
 <!--<img align="right" alt="Hot air balloon" src="https://github.com/lamaustin66/lamaustin66/blob/main/assets/pilotredsun.gif?raw=true"/>-->
   
-## 🧐 More About Me
+## More About Me
 
-- 🎓 New grad B.S. Computer Science from University of California, Irvine
-- 🔭 I’m currently working on **gifSplitterX** and **chatAppX**
-- 🌱 I’m currently learning **Swift** and **Design Patterns**
-- 👨🏻‍💻 All of my projects are available on [Github](https://github.com/lamaustin66)
-- 🧰 When I am free I like to garden, play boardgames, fix cars, fly kites, blow bubbles
+- New grad B.S. Computer Science from University of California, Irvine
+- I’m currently working on **gifSplitterX** and **chatAppX**
+- I’m currently learning **Swift** and **Design Patterns**
+- All of my projects are available on [Github](https://github.com/lamaustin66)
+- When I am free I like to garden, play boardgames, fix cars, fly kites, blow bubbles
 <!-- - 🤝 I’m looking for help with **peer-to-peer facetime** -->
 
 
